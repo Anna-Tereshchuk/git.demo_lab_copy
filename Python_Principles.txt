@@ -10,4 +10,8 @@ Although practicality beats purity.
 Errors should never pass silently.
 Unless explicitly silenced.
 In the face of ambiguity, refuse the temptation to guess.
+<<<<<<< HEAD
 There should be one-- and preferably only one --obvious way to do it.
+=======
+
+>>>>>>> c6a2ef3844518ec5dfd576e7e6204f6df827cb03
